@@ -7,3 +7,8 @@ ARSIS (Augmented Reality Space Informatics System) is a comprehensive software s
 - Hololens Portal: https://youtu.be/sB2iFfY79qk
 - Desktop Ground Station: https://youtu.be/9ZSTlA6a-Qc
 - VR Ground Station: https://youtu.be/sRc1n1EMdac
+
+# Tech Specs  
+* Unity 2019.4.14 (LTS).  
+* Photon 2.28. This is included in the project, but make sure that any new clients that you create use the same version of Photon otherwise they will not connect.  
+* MRTK 2.5.3  
